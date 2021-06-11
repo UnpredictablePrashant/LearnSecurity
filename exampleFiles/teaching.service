@@ -1,0 +1,12 @@
+[Unit]
+Description=Teaching
+After=network.target
+StartLimitIntervalSec=0
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=kali
+ExecStart=/usr/bin/php /home/kali/Documents/LearnSecurity/exampleFiles/sampleEcho.php
+[Install]
+WantedBy=multi-user.target
