@@ -91,7 +91,7 @@ mysql> exit;
 ## Contributors
 <ul>
     <li><a href="https://www.linkedin.com/in/prashantkumardey/">Prashant Kumar Dey</a></li>
-<ul>
+</ul>
 
 ## References
 <ul>
