@@ -14,9 +14,9 @@ It is important that you get familiar with some basic concepts before proceeding
 <ul>
     <li>What is server and client?</li>
     <li>How websites are hosted?</li>
-    <ul>What are various programming language used?</li>
-    <ul>What is HTTP request and response?</li>
-<ul>
+    <li>What are various programming language used?</li>
+    <li>What is HTTP request and response?</li>
+</ul>
 
 ### Setting up Lab
 <p><a href="https://github.com/digininja/DVWA">Damn Vulnerable Web Application (DVWA)</a> is the best place for begineers to start their journey with web security. DVWA is an open source lab which provides a vulnerable environment where learners can practice their skill which they learn from the concept above.</p>
@@ -97,4 +97,4 @@ mysql> exit;
 <ul>
     <li><a href="https://www.wikipedia.org/">Wikipedia</a></li>
     <li><a href="https://owasp.org/">OWASP</a><li>
-<ul>
+</ul>
