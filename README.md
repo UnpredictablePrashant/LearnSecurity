@@ -1,4 +1,7 @@
 # Complete Guide to Cyber Security
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUnpredictablePrashant%2FLearnSecurity&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 
 The aim of this github repository is to provide the complete guide on cybersecurity.
 
@@ -97,5 +100,5 @@ mysql> exit;
 <ul>
     <li><a href="https://www.wikipedia.org/">Wikipedia</a></li>
     <li><a href="https://owasp.org/">OWASP</a></li>
-    <li><a href="https://github.com/digininja/DVWA">OWASP</a></li>
+    <li><a href="https://github.com/digininja/DVWA">DVWA</a></li>
 </ul>
